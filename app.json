@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Signal",
+    "slug": "signal-frontend",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "platforms": [
+      "android",
+      "ios",
+      "web"
+    ],
+    "jsEngine": "hermes",
+    "scheme": "signal",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ],
+    "android": {
+      "package": "com.anonymous.signalfrontend"
+    }
+  }
+}
